@@ -1,8 +1,0 @@
-status,price,bed,bath,acre_lot,street,city,state,zip_code,house_size,date_sold
-for_sale                      ,120000,2,1,0.15,1221860.0,Oklahoma City,Oklahoma                      ,73107,852,2011-08-31
-for_sale                      ,140000,2,1,0.17,1115826.0,Oklahoma City,Oklahoma                      ,73107,939,2014-08-18
-for_sale                      ,225000,4,2,0.16,1235810.0,Oklahoma City,Oklahoma                      ,73107,1665,2011-12-22
-for_sale                      ,159900,2,1,0.16,964194.0,Oklahoma City,Oklahoma                      ,73107,1045,2013-06-18
-for_sale                      ,265000,3,2,0.17,664948.0,Oklahoma City,Oklahoma                      ,73107,1622,1996-11-01
-for_sale                      ,399000,4,2,0.17,836132.0,Oklahoma City,Oklahoma                      ,73107,2109,2013-08-02
-for_sale                      ,524000,3,3,0.17,1035218.0,Oklahoma City,Oklahoma                      ,73107,1944,2017-12-27
